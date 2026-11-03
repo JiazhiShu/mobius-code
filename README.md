@@ -1,12 +1,12 @@
 <h1 align="center">Möbius: A Unified Motion-Language Model<br>Bridging Understanding and Generation</h1>
 
 <p align="center">
-  <a href="https://jiazhishu.github.io/">Jiazhi Shu</a>*, <a href="https://afterjourney00.github.io/">Chengfeng Zhao</a>*, <a href="https://openreview.net/profile?id=~Jinyi_Wang2">Jinyi Wang</a>, <a href="https://knoxzhao.github.io/">Yubo Zhao</a>, <a href="https://people.csail.mit.edu/frankzydou/">Zhiyang Dou</a>,<br>
-  <a href="https://li-ronghui.github.io/">Ronghui Li</a>, <a href="https://openreview.net/profile?id=~Yu_Lu6">Yu Lu</a>, <a href="https://openreview.net/profile?id=~Xinwei_Jiang1">Xinwei Jiang</a>, <a href="https://openreview.net/profile?id=~Zijiao_Zeng1">Zijiao Zeng</a>, <a href="https://liuyuan-pal.github.io/">Yuan Liu</a>
+  <a href="https://jiazhishu.github.io/">Jiazhi Shu</a><sup>1,2,*</sup>, <a href="https://afterjourney00.github.io/">Chengfeng Zhao</a><sup>1,*</sup>, <a href="https://openreview.net/profile?id=~Jinyi_Wang2">Jinyi Wang</a><sup>2,†</sup>, <a href="https://knoxzhao.github.io/">Yubo Zhao</a><sup>1,2</sup>, <a href="https://people.csail.mit.edu/frankzydou/">Zhiyang Dou</a><sup>3</sup>,<br>
+  <a href="https://li-ronghui.github.io/">Ronghui Li</a><sup>2</sup>, <a href="https://openreview.net/profile?id=~Yu_Lu6">Yu Lu</a><sup>2</sup>, <a href="https://openreview.net/profile?id=~Xinwei_Jiang1">Xinwei Jiang</a><sup>2</sup>, <a href="https://openreview.net/profile?id=~Zijiao_Zeng1">Zijiao Zeng</a><sup>2,‡</sup>, <a href="https://liuyuan-pal.github.io/">Yuan Liu</a><sup>1,‡</sup>
 </p>
 <p align="center">
-  The Hong Kong University of Science and Technology · Tencent Games Motus · Massachusetts Institute of Technology<br>
-  <sub>* Equal contribution</sub>
+  <sup>1</sup>The Hong Kong University of Science and Technology · <sup>2</sup>Tencent Games Motus · <sup>3</sup>Massachusetts Institute of Technology<br>
+  <sub>* Equal contribution. &nbsp; † Project lead. &nbsp; ‡ Corresponding authors.</sub>
 </p>
 <p align="center">
   <a href="https://jiazhishu.github.io/mobius/">Project Page</a> ·
