@@ -1,8 +1,8 @@
 <h1 align="center">Möbius: A Unified Motion-Language Model<br>Bridging Understanding and Generation</h1>
 
 <p align="center">
-  Jiazhi Shu*, Chengfeng Zhao*, Jinyi Wang, Yubo Zhao, Zhiyang Dou,<br>
-  Ronghui Li, Yu Lu, Xinwei Jiang, Zijiao Zeng, Yuan Liu
+  <a href="https://jiazhishu.github.io/">Jiazhi Shu</a>*, <a href="https://afterjourney00.github.io/">Chengfeng Zhao</a>*, <a href="https://openreview.net/profile?id=~Jinyi_Wang2">Jinyi Wang</a>, <a href="https://knoxzhao.github.io/">Yubo Zhao</a>, <a href="https://people.csail.mit.edu/frankzydou/">Zhiyang Dou</a>,<br>
+  <a href="https://li-ronghui.github.io/">Ronghui Li</a>, <a href="https://openreview.net/profile?id=~Yu_Lu6">Yu Lu</a>, <a href="https://openreview.net/profile?id=~Xinwei_Jiang1">Xinwei Jiang</a>, <a href="https://openreview.net/profile?id=~Zijiao_Zeng1">Zijiao Zeng</a>, <a href="https://liuyuan-pal.github.io/">Yuan Liu</a>
 </p>
 <p align="center">
   The Hong Kong University of Science and Technology · Tencent Games Motus · Massachusetts Institute of Technology<br>
@@ -14,9 +14,9 @@
   <a href="assets/pipeline.pdf">Pipeline (PDF)</a>
 </p>
 
-## Code Release — Coming Soon
+## Code Availability
 
-The code is currently undergoing internal review. We will release it in this repository once the review is complete. Stay tuned!
+Code availability is currently under internal review. Any updates regarding potential public access will be shared here.
 
 ## Overview
 
