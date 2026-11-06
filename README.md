@@ -29,3 +29,19 @@ Code availability is currently under internal review. Any updates regarding pote
 Text, clean motion, and noisy motion are processed through a unified backbone with shared multimodal attention. Motion and text heads support bidirectional modeling between language and human motion.
 
 See the [project page](https://jiazhishu.github.io/mobius/) for interactive examples and results.
+
+## Citation
+
+If you find our work useful, please consider citing our paper.
+
+```bibtex
+@misc{shu2026mobius,
+  title = {{M{\"o}bius}: A Unified Motion-Language Model Bridging Understanding and Generation},
+  author = {Jiazhi Shu and Chengfeng Zhao and Jinyi Wang and Yubo Zhao and Zhiyang Dou and Ronghui Li and Yu Lu and Xinwei Jiang and Zijiao Zeng and Yuan Liu},
+  year = {2026},
+  eprint = {2611.05279},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CV},
+  url = {https://arxiv.org/abs/2611.05279}
+}
+```
